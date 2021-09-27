@@ -1,6 +1,6 @@
-##Python环境
+## Python环境
 
-###python虚拟环境的使用
+### python虚拟环境的使用
 
 参考文档：
 
@@ -10,7 +10,7 @@
 
 
 
-####Window 下创建python的虚拟环境
+#### Window 下创建python的虚拟环境
 
 **下载工具**
 
@@ -38,7 +38,7 @@
 
 
 
-####Linux 下创建python的虚拟环境
+#### Linux 下创建python的虚拟环境
 
 **下载工具**
 
@@ -70,7 +70,7 @@ virtualenvwrapper虚拟环境管理包，推荐使用
 
  
 
-####Windows下使用virtualenvwrapper
+#### Windows下使用virtualenvwrapper
 
 **安装**
 
@@ -108,7 +108,7 @@ virtualenvwrapper虚拟环境管理包，推荐使用
 
  
 
-####Linux下使用virtualenvwrapper
+#### Linux下使用virtualenvwrapper
 
 **安装**
 
@@ -130,7 +130,7 @@ virtualenvwrapper虚拟环境管理包，推荐使用
 
 　　　　export WORKON_HOME=$HOME/.virtualenvs
 
-　　　　source /home/<username>/.local/bin/virtualenvwrapper.sh
+　　　　source /home/\<username\>/.local/bin/virtualenvwrapper.sh
 
 　　source ~/.bashrc
 
