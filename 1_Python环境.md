@@ -9,7 +9,7 @@
 > https://www.cnblogs.com/cq146637/p/9033010.html
 
 
-
+</br>
 #### Window 下创建python的虚拟环境
 
 **下载工具**
@@ -37,7 +37,7 @@
 　　virtualenv -p C:\Python\Python36\python.exe testenvenv3
 
 
-
+</br>
 #### Linux 下创建python的虚拟环境
 
 **下载工具**
@@ -69,7 +69,7 @@
 virtualenvwrapper虚拟环境管理包，推荐使用
 
  
-
+</br>
 #### Windows下使用virtualenvwrapper
 
 **安装**
@@ -107,7 +107,7 @@ virtualenvwrapper虚拟环境管理包，推荐使用
 　　deactivate.bat
 
  
-
+</br>
 #### Linux下使用virtualenvwrapper
 
 **安装**
